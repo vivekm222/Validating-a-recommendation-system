@@ -1,0 +1,136 @@
+{
+    "responseHeader": {
+        "zkConnected": true,
+        "status": 0,
+        "QTime": 8,
+        "params": {
+            "q": "*:*",
+            "fq": "org_s:intertoys_live",
+            "rows": "1",
+            "_forwardedCount": "1"
+        }
+    },
+    "response": {
+        "numFound": 1,
+        "start": 0,
+        "docs": [
+            {
+                "name_s": "LEGO Disney stoomboot Willie 21317",
+                "cannoical_url_s": "https://www.intertoys.nl/shop/nl/intertoys/bouwspeelgoed-en-constructiespeelgoed/bouwsets-en-onderdelen/bouwsets/lego-disney-stoomboot-willie-21317",
+                "sku_s": "1979156",
+                "product_cannoical_url_s": "https://www.intertoys.nl/shop/nl/intertoys/bouwspeelgoed-en-constructiespeelgoed/bouwsets-en-onderdelen/bouwsets/lego-disney-stoomboot-willie-21317",
+                "smallImage_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1979156-1c690f3f.jpg",
+                "page_reachable_b": true,
+                "org_s": "intertoys_live",
+                "status_b": false,
+                "doc_id_s": "9f630604-daa1-455d-aceb-a4150fa9127c_1979156",
+                "namel_t": "lego disney stoomboot willie 21317",
+                "description_t": "Vier de 90ste verjaardag van Disney's Mickey Mouse met dit verzamelobject en creatieve speelgoed LEGO Ideas Stoomboot Willie! Het beroemde schip Stoomboot Willie is uitgevoerd in zwart-wit en heeft verborgen wielen. LEGO-nr. 21317",
+                "price_d": 89.99,
+                "namel_s": "lego disney stoomboot willie 21317",
+                "client_os_type_s": "magento",
+                "image_base_url_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1979156-1c690f3f.jpg",
+                "event_type_s": "productinfo",
+                "orgID_s": "9f630604-daa1-455d-aceb-a4150fa9127c",
+                "visibility_b": false,
+                "product_id_i": 1979156,
+                "thumbImage_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1979156-1c690f3f.jpg",
+                "typeid_s": "simple",
+                "image_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1979156-1c690f3f.jpg",
+                "name_t": "LEGO Disney stoomboot Willie 21317",
+                "stock_d": 0.0,
+                "weight_i": 0,
+                "age_from_i": 120,
+                "age_to_i": 999,
+                "discounted_price_d": 0.0,
+                "release_date_s": "nan",
+                "pupdated_at_dt": "2021-05-17T00:00:10.791Z",
+                "gender_ss": [
+                    "neutral"
+                ],
+                "categories_ss": [
+                    "Bouwsets"
+                ],
+                "leaf_categories_ss": [
+                    "Bouwsets"
+                ],
+                "parentCategories_ss": [
+                    "Bouwsets & Onderdelen"
+                ],
+                "catname_ss": [
+                    "Bouwsets"
+                ],
+                "product_vav_reco_ss": [
+                    "LEGO Ideas boomhut 21318",
+                    "LEGO Ideas Central Perk 21319",
+                    "LEGO Creator expert krokodil locomotief 10277",
+                    "LEGO Creator diner in de stad 10260",
+                    "LEGO IDEAS The Flintstones 21316",
+                    "LEGO Creator Taj Mahal 10256",
+                    "LEGO Creator Fiat 500 10271",
+                    "LEGO Creator Volkswagen T1 kampeerbus Van 3-in-1 10220",
+                    "LEGO Creator achtbaan 10261",
+                    "LEGO Creator Ford Mustang 10265"
+                ],
+                "product_vav_reco_count_is": [
+                    48,
+                    43,
+                    39,
+                    38,
+                    35,
+                    34,
+                    34,
+                    31,
+                    31,
+                    30
+                ],
+                "product_crosssell_reco_ss": [
+                    "Oosh Floss slijm lollipop middel",
+                    "LEGO Disney Mickey Mouse en Minnie Mouse personages 43179",
+                    "Disney New Core Mickey Mouse knuffel - 61 cm",
+                    "Tybo Tie-Dye ontwerpstudio"
+                ],
+                "product_crosssell_reco_is": [
+                    5,
+                    5,
+                    5,
+                    2
+                ],
+                "eventcount_bucket_i": [
+                    1,
+                    7,
+                    15,
+                    30
+                ],
+                "productview_eventcount_i": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "addtowishlist_eventcount_i": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "addtocart_eventcount_i": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "checkout_eventcount_i": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "category_bread_crumb_s": "Bouwen & Constructie > Bouwsets & Onderdelen > Bouwsets",
+                "category_bread_crumb_t": "Bouwen & Constructie > Bouwsets & Onderdelen > Bouwsets",
+                "doc_index_dt": "2021-05-12T14:49:32.828Z",
+                "_version_": 1700033271782440960
+            }
+        ]
+    }
+}

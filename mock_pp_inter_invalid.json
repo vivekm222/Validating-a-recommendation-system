@@ -1,0 +1,113 @@
+{
+  "responseHeader": {
+    "zkConnected": true,
+    "status": 0,
+    "QTime": 8,
+    "params": {
+      "q": "*:*",
+      "fq": "org_s:intertoys_live",
+      "rows": "1",
+      "_forwardedCount": "1"
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "name_s": "Rainbow High modepop serie 1",
+        "cannoical_url_s": "https://www.intertoys.nl/shop/nl/intertoys/poppen-en-knuffels/modepoppen-en-accessoires/modepoppen/rainbow-high-modepop-serie-1",
+        "sku_s": "1983780",
+        "product_cannoical_url_s": "https://www.intertoys.nl/shop/nl/intertoys/poppen-en-knuffels/modepoppen-en-accessoires/modepoppen/rainbow-high-modepop-serie-1",
+        "smallImage_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1983780-aa1f12c4.jpg",
+        "page_reachable_b": true,
+        "org_s": "intertoys_live",
+        "status_b": true,
+        "doc_id_s": "9f630604-daa1-455d-aceb-a4150fa9127c_1983780",
+        "namel_t": "rainbow high modepop serie 1",
+        "description_t": "Bedenk je eigen hippe avonturen met deze Rainbow High modepop. De pop is 38 cm groot.",
+        "price_d": 59.99,
+        "namel_s": "rainbow high modepop serie 1",
+        "client_os_type_s": "magento",
+        "image_base_url_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1983780-aa1f12c4.jpg",
+        "event_type_s": "productinfo",
+        "orgID_s": "9f630604-daa1-455d-aceb-a4150fa9127c",
+        "visibility_b": true,
+        "product_id_i": 1983780,
+        "thumbImage_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1983780-aa1f12c4.jpg",
+        "typeid_s": "simple",
+        "image_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1983780-aa1f12c4.jpg",
+        "name_t": "Rainbow High modepop serie 1",
+        "stock_d": 83.0,
+        "weight_i": 0,
+        "age_from_i": 36,
+        "age_to_i": 999,
+        "discounted_price_d": 0.0,
+        "release_date_s": "nan",
+        "pupdated_at_dt": "2021-05-17T19:30:06.949Z",
+        "gender_ss": ["neutral"],
+        "categories_ss": ["Modepoppen"],
+        "leaf_categories_ss": ["Modepoppen"],
+        "parentCategories_ss": ["Modepoppen & Accessoires"],
+        "catname_ss": ["Modepoppen"],
+        "product_vav_reco_ss": [
+          "Rainbow High modepop Violet Willow",
+          "Rainbow High modepop Poppy Rowan",
+          "Rainbow High modepop Skyler Bradsh",
+          "Rainbow High haarstudio",
+          "Rainbow High modepop serie 2",
+          "Rainbow High modepop Sunny Madison",
+          "Rainbow High modepop Ruby Anderson",
+          "Rainbow High salon speelset",
+          "Rainbow High modepop Jade Hunter",
+          "Na! Na! Na! Surprise 3-in-1 rugzak - roze"
+        ],
+        "product_vav_reco_count_is": [
+          123,
+          107,
+          106,
+          97,
+          96,
+          79,
+          74,
+          64,
+          58,
+          29
+        ],
+        "product_crosssell_reco_ss": [
+          "Rainbow High Cheer modepop Jade Hunter",
+          "Rainbow High modepop Sunny Madison",
+          "Rainbow High modepop Ruby Anderson",
+          "Rainbow High Cheer modepop Ruby Anderson",
+          "Rainbow High Cheer modepop Violet Willow",
+          "Rainbow High modepop serie 2",
+          "Rainbow High Cheer modepop Sunny Madison",
+          "Rainbow High Cheer modepop Skyler Bradshaw",
+          "Rainbow High modepop Skyler Bradsh",
+          "Rainbow High Cheer modepop Poppy Rowan"
+        ],
+        "product_crosssell_reco_is": [
+          118,
+          117,
+          103,
+          91,
+          90,
+          83,
+          75,
+          74,
+          68,
+          63
+        ],
+        "eventcount_bucket_i": [1, 7, 15, 30],
+        "productview_eventcount_i": [8, 69, 158, 266],
+        "addtowishlist_eventcount_i": [0, 1, 1, 1],
+        "addtocart_eventcount_i": [0, 1, 2, 4],
+        "checkout_eventcount_i": [0, 0, 0, 1],
+        "category_bread_crumb_s": "Poppen & Knuffels > Modepoppen & Accessoires > Modepoppen",
+        "category_bread_crumb_t": "Poppen & Knuffels > Modepoppen & Accessoires > Modepoppen",
+        "doc_index_dt": "2021-05-12T14:49:32.828Z",
+        "_version_": 1700035116611403776
+      }
+    ]
+  }
+}

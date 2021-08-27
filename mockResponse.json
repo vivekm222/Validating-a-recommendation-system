@@ -1,0 +1,36 @@
+{
+  "status_code": 200,
+  "text": {
+    "errMsg": "None",
+    "numberofdocs": 3,
+    "success": "0",
+    "widgetType": "crosssell",
+    "widgetName": "Frequently bought together",
+    "products": [
+      {
+        "name": "Xbox One GTA V Premium Edition",
+        "sku": "1767363",
+        "price": "29.99",
+        "discountedPrice": "0",
+        "smallImage": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1767363.jpg",
+        "currentPageUrl": "https://www.intertoys.nl/shop/nl/intertoys/games-en-spelcomputers/games/xbox-one-gta-v-premium-edition"
+      },
+      {
+        "name": "Nintendo Switch Super Mario Odyssey",
+        "sku": "1473148",
+        "price": "59.99",
+        "discountedPrice": "0",
+        "smallImage": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1473148.jpg",
+        "currentPageUrl": "https://www.intertoys.nl/shop/nl/intertoys/games-en-spelcomputers/games/nintendo-switch-super-mario-odyssey"
+      },
+      {
+        "name": "Xbox One S All-Digital 1TB console + games",
+        "sku": "1979895",
+        "price": "229.99",
+        "discountedPrice": "0",
+        "smallImage": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1979895-af15cbef.jpg",
+        "currentPageUrl": "https://www.intertoys.nl/shop/nl/intertoys/games-en-spelcomputers/spelcomputers/xbox-one-s-all-digital-1tb-console-plus-games"
+      }
+    ]
+  }
+}

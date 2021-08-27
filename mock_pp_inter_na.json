@@ -1,0 +1,78 @@
+{
+  "responseHeader": {
+    "zkConnected": true,
+    "status": 0,
+    "QTime": 8,
+    "params": {
+      "q": "*:*",
+      "fq": "org_s:intertoys_live",
+      "rows": "1",
+      "_forwardedCount": "1"
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "name_s": "PLAYMOBIL 1.2.3 piratenschip 9118",
+        "cannoical_url_s": "https://www.intertoys.nl/shop/nl/intertoys/speelfiguren-speelsets-speelfiguurvoertuigen/speelsets/playmobil-1-2-3-piratenschip-9118",
+        "sku_s": "1462016",
+        "product_cannoical_url_s": "https://www.intertoys.nl/shop/nl/intertoys/speelfiguren-speelsets-speelfiguurvoertuigen/speelsets/playmobil-1-2-3-piratenschip-9118",
+        "smallImage_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1462016.jpg",
+        "page_reachable_b": true,
+        "org_s": "intertoys_live",
+        "status_b": false,
+        "doc_id_s": "9f630604-daa1-455d-aceb-a4150fa9127c_1462016",
+        "namel_t": "playmobil 1.2.3 piratenschip 9118",
+        "description_t": "Het Playmobil 1.2.3 Piratenschip drijft en het grote kanon schiet met water. Het schip is bovendien voorzien van een piratenvlag, een kanon en een groot roer om te sturen. PLAYMOBIL-nr 9118",
+        "price_d": 24.99,
+        "namel_s": "playmobil 1.2.3 piratenschip 9118",
+        "client_os_type_s": "magento",
+        "image_base_url_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1462016.jpg",
+        "event_type_s": "productinfo",
+        "orgID_s": "9f630604-daa1-455d-aceb-a4150fa9127c",
+        "visibility_b": true,
+        "product_id_i": 1462016,
+        "thumbImage_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1462016.jpg",
+        "typeid_s": "simple",
+        "image_s": "https://image.intertoys.nl/wcsstore/IntertoysCAS/images/catalog/full/1462016.jpg",
+        "name_t": "PLAYMOBIL 1.2.3 piratenschip 9118",
+        "stock_d": 0.0,
+        "weight_i": 0,
+        "age_from_i": 12,
+        "age_to_i": 48,
+        "discounted_price_d": 0.0,
+        "release_date_s": "nan",
+        "pupdated_at_dt": "2021-05-17T19:00:07.109Z",
+        "gender_ss": ["neutral"],
+        "categories_ss": ["Speelsets"],
+        "leaf_categories_ss": ["Speelsets"],
+        "parentCategories_ss": ["Speelfiguren & Speelsets"],
+        "catname_ss": ["Speelsets"],
+        "product_vav_reco_ss": [
+          "PLAYMOBIL 1.2.3 meeneemschip 6957",
+          "PLAYMOBIL Dinos helikopter met Pteranodon 9430",
+          "PLAYMOBIL 1.2.3 mijn meeneem kinderdagverblijf 70399",
+          "PLAYMOBIL 1.2.3 dierentrein 70405",
+          "PLAYMOBIL Country SuperSet familietuin 70010",
+          "PLAYMOBIL City Life schoolbus 9419",
+          "PLAYMOBIL Pirates piraten op schattenjacht 70414",
+          "PLAYMOBIL Christmas boerderij adventskalender 70189",
+          "Brandweerman Sam helikopter",
+          "PLAYMOBIL 1.2.3 ziekenwagen 9122"
+        ],
+        "product_vav_reco_count_is": [16, 14, 14, 13, 12, 11, 11, 10, 8, 8],
+        "eventcount_bucket_i": [1, 7, 15, 30],
+        "productview_eventcount_i": [4, 46, 78, 159],
+        "addtowishlist_eventcount_i": [0, 0, 0, 0],
+        "addtocart_eventcount_i": [0, 1, 1, 3],
+        "checkout_eventcount_i": [0, 0, 0, 0],
+        "category_bread_crumb_s": "Speelfiguren & Speelsets > Speelsets",
+        "category_bread_crumb_t": "Speelfiguren & Speelsets > Speelsets",
+        "doc_index_dt": "2021-05-12T14:49:32.828Z",
+        "_version_": 1700033228034801664
+      }
+    ]
+  }
+}
